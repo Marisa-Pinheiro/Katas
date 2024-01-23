@@ -1,5 +1,6 @@
+package java;
 /*
-Kata: Scramblies on Codewars
+Kata: java.Scramblies on Codewars
 Author: joh_pot
 Ranking: 5kyu
 */
