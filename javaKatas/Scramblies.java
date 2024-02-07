@@ -1,4 +1,4 @@
-package java;
+package javaKatas;
 /*
 Kata: java.Scramblies on Codewars
 Author: joh_pot

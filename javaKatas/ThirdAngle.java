@@ -1,4 +1,4 @@
-package java;
+package javaKatas;
 
 public class ThirdAngle {
     public static int otherAngle(int angle1, int angle2) {

@@ -1,4 +1,4 @@
-package java;
+package javaKatas;
 
 public class Paper {
         public static int paperWork(int n, int m) {

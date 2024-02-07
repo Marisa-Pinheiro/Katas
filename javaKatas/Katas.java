@@ -1,4 +1,4 @@
-package java;
+package javaKatas;
 
 public class Katas {
 
